@@ -2,9 +2,9 @@
 layout: default
 ---
 
-To go to my resume, please go [here](https://docs.google.com/document/d/1Yr3xbWSJh-UqUlc2m_qg1sM72SnbJFIBLETVoHrQ0qg/edit?usp=sharing)
-
 # About me
+
+To go to my resume, please go [here](https://docs.google.com/document/d/1Yr3xbWSJh-UqUlc2m_qg1sM72SnbJFIBLETVoHrQ0qg/edit?usp=sharing)
 
 # Home Labs
 
