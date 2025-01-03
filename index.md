@@ -12,3 +12,6 @@ In order to give myself real-world, hands-on experience with cybersecurity I've 
 
 ## Azure Lab
 
+In this lab, I set up a virtual machine running Microsoft Server, deliberately leaving the RDP port open on 3389 and logged the resulting login attempts. I set up different alerts in Sentinel, automatically creating incidents for events such as unsuccessful logins, successful logins, and other events. 
+
+[azure-screenshot-01](https://github.com/JosephMusial/josephmusial.github.io/blob/main/images/azure-lab-01/Screenshot_20250102_201048.png)
