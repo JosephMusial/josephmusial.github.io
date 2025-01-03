@@ -4,9 +4,11 @@ layout: default
 
 # About me
 
-Welcome to my portfolio. I'm an Eagle Scout, professional software developer, and I hold a Masters degree in cybersecurity. I was first exposed to the world of InfoSec during a college internship where, after my first time in the SOC, I fell in love. Since then, I've attended conferences, made home labs, and pursued certifications.
-I can bring a unique set of skills to your organization thanks to my 
-To see my resume, please go [here](https://docs.google.com/document/d/1Yr3xbWSJh-UqUlc2m_qg1sM72SnbJFIBLETVoHrQ0qg/edit?usp=sharing)
+Welcome to my portfolio. I hold a Masters degree in cybersecurity, I am a professional software developer of nearly five years, and, also of note, I am an Eagle Scout. I was first exposed to the world of InfoSec during a college internship where, after my first time in the SOC, I found my career calling. Since that time, I've completed my both Bachelors and Masters degrees, earning academic honors in my Masters. I've attended conferences, made home labs, and am currently pursuing both my AWS Certified Cloud Practitioner and Security+ certifications. 
+
+I can bring a unique set of skills to your organization thanks to my uncommon pathway to cybersecurity. While most entry level cybersecurity analysts work their way up through helpdesk or networking, I am coming into this field as a software developer. This affords me the opportunity of a perspective not often shared by others coming into the field. My work experience allows me to understand the software developer's perspective in access management. Finally, thanks to my work experience, I am able to more intuitively understand malicious code than others. 
+
+To see my resume, please go [here](https://docs.google.com/document/d/1Yr3xbWSJh-UqUlc2m_qg1sM72SnbJFIBLETVoHrQ0qg/edit?usp=sharing). Or, find me on LinkedIn [here](https://www.linkedin.com/in/joseph-musial-120255103/)
 
 # My Certifications
 
