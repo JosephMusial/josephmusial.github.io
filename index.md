@@ -4,7 +4,13 @@ layout: default
 
 # About me
 
-To go to my resume, please go [here](https://docs.google.com/document/d/1Yr3xbWSJh-UqUlc2m_qg1sM72SnbJFIBLETVoHrQ0qg/edit?usp=sharing)
+Welcome to my portfolio. I'm an Eagle Scout, professional software developer, and I hold a Masters degree in cybersecurity. I was first exposed to the world of InfoSec during a college internship where, after my first time in the SOC, I fell in love. Since then, I've attended conferences, made home labs, and pursued certifications.
+I can bring a unique set of skills to your organization thanks to my 
+To see my resume, please go [here](https://docs.google.com/document/d/1Yr3xbWSJh-UqUlc2m_qg1sM72SnbJFIBLETVoHrQ0qg/edit?usp=sharing)
+
+# My Certifications
+
+
 
 # Home Labs
 
