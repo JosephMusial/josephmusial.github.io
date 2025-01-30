@@ -10,6 +10,13 @@ I can bring a unique set of skills to your organization thanks to my uncommon pa
 
 To see my resume, please go [here](https://docs.google.com/document/d/1Yr3xbWSJh-UqUlc2m_qg1sM72SnbJFIBLETVoHrQ0qg/edit?usp=sharing). Or, find me on LinkedIn [here](https://www.linkedin.com/in/joseph-musial-120255103/).
 
+# Why You Need Me on Your Team
+* I bring a unique perspective thanks to my software engineering background
+* I have cloud experience, specifically in AWS
+* My time in software development has shown me what services are most likely to be out of compliance
+* I have excellent communication skills thanks to my experience as an Eagle Scout and as a camp counselor
+* I regularly explain technical concepts to non-technical staff as part of my duties
+
 # My Certifications
 
 
