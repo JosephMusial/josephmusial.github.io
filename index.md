@@ -12,6 +12,7 @@ To see my resume, please go [here](https://docs.google.com/document/d/1Yr3xbWSJh
 
 # Why You Need Me on Your Team
 * I bring a unique perspective thanks to my software engineering background
+* I know which systems are often neglected in updates thanks to my software engineering background
 * I have cloud experience, specifically in AWS
 * My time in software development has shown me what services are most likely to be out of compliance
 * I have excellent communication skills thanks to my experience as an Eagle Scout and as a camp counselor
