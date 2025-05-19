@@ -21,6 +21,10 @@ To see my resume, please go [here](https://docs.google.com/document/d/1Yr3xbWSJh
 # My Certifications
 
 
+# My Cyber Profiles
+* PWN.COLLEGE https://pwn.college/hacker/91808
+
+
 
 # Home Labs
 
