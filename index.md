@@ -19,6 +19,7 @@ To see my resume, please go [here](https://docs.google.com/document/d/1Yr3xbWSJh
 * I regularly explain technical concepts to non-technical staff as part of my duties
 
 # My Certifications
+* Google Cybersecurity Professional Certificate
 
 
 # My Cyber Profiles
